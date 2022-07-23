@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio1_ob",
+  "version": "1.0.0",
+  "description": "Ejercicio1 de OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio1": "node ejercicio1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ej1"
+  ],
+  "author": "Iván Azagra",
+  "license": "ISC"
+}
